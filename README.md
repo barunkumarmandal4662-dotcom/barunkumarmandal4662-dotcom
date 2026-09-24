@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I'm Barunk Kumar Mandal
 
-### *Building intelligence • Solving problems • Creating impact 🚀*
+### *Turning data into insights • Solving problems • Building with data 📊🚀*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Enthusiast;Quantum+Machine+Learning+Researcher;Building+Intelligent+Systems+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Data+Analytics+Enthusiast;Machine+Learning+Learner;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 </div>
 
@@ -12,13 +12,15 @@
 
 ## 👨‍💻 About Me
 
-* 🤖 Passionate **AI & Machine Learning** enthusiast focused on building intelligent, real-world solutions.
-* 🧬 Exploring **Quantum Machine Learning (QCNN)** for breast cancer classification through research-driven projects.
-* 🚀 Building **Generative AI**, **LLMs**, and **LangChain** applications to solve practical problems.
-* 📚 Always learning and experimenting with **Agentic AI**, **RAG**, **FastAPI**, and modern AI technologies.
-* 💡 I believe the best way to learn is by building projects, conducting research, and solving real-world challenges.
+* 📊 Passionate **Data Science & Data Analytics** enthusiast focused on extracting meaningful insights from data.
+* 🐍 Working with **Python, Pandas, NumPy, Matplotlib, and Scikit-Learn** for data analysis and machine learning.
+* 🗄️ Learning and working with **SQL and databases** to clean, transform, query, and analyze data.
+* 📈 Exploring **Power BI, Excel, data visualization, and dashboards** to communicate insights effectively.
+* 🤖 Interested in **Machine Learning, Generative AI, and AI-powered data applications**.
+* 🚀 I believe the best way to learn is by working on **real-world projects, analyzing real datasets, and solving practical problems**.
 
 ---
+
 
 # 🌐 Connect With Me
 
@@ -113,7 +115,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=devabhinavraj\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=barunkumarmandal4662-dotcom\&show_icons=true\&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=devabhinavraj\&theme=tokyonight)
 
@@ -127,7 +129,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devabhinavraj&custom_title=GitHub%20Activity%20Graph&theme=dracula&hide_border=true&line=5882B5&point=FFFFFF&area=true&bg_color=282a36" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=barunkumarmandal4662-dotcom&custom_title=GitHub%20Activity%20Graph&theme=dracula&hide_border=true&line=5882B5&point=FFFFFF&area=true&bg_color=282a36" 
     alt="GitHub Activity Graph" 
   />
 </p>
