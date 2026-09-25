@@ -111,39 +111,6 @@
 
 </div>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=barunkumarmandal4662-dotcom\&show_icons=true\&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=devabhinavraj\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devabhinavraj\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 My Coding Footprints
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=barunkumarmandal4662-dotcom&custom_title=GitHub%20Activity%20Graph&theme=dracula&hide_border=true&line=5882B5&point=FFFFFF&area=true&bg_color=282a36" 
-    alt="GitHub Activity Graph" 
-  />
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
 ---
 
 <div align="center">
